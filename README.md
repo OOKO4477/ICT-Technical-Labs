@@ -27,5 +27,5 @@ This lab demonstrates the implementation of a secure, segmented network using Ci
 * **ISACA Member ID:** 1913411
 
 ##  Connect with Me
-* **LinkedIn: linkedin.com/in/ooko-geoffrey-cybersecurity
+LinkedIn: linkedin.com/in/ooko-geoffrey-cybersecurity
 * **Professional Focus:** Security Operations, Network Defense, and IT Governance.
